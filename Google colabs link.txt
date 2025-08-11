@@ -1,0 +1,5 @@
+Analysis Link - https://colab.research.google.com/drive/1OPZ2GIc0j-gqtaE9ig93bNuGZkW_XfqI?usp=sharing
+
+Machin learning model for predicting classification - https://colab.research.google.com/drive/1fEl_4xZDJ0PMZ3rA0DGbjTfL-vZ2TdEl?usp=sharing  
+
+Machine learning model for predicting values - https://colab.research.google.com/drive/1N-x-aPll20Kh3wIXbF6GyMNbiLfU0dkJ?usp=sharing

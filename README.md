@@ -1,5 +1,7 @@
 # ds-Abdul-wajeed# Data Science Assignment — Web3 Trading Team
 
+
+
 ## 📌 Project Overview
 This project analyzes the relationship between **trader behavior** and **market sentiment** (Fear, Greed, Extreme Greed, Neutral) using:
 - **Bitcoin Market Sentiment Dataset**
